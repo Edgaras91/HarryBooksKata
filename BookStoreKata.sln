@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HarryStore", "HarryStore\HarryStore.csproj", "{A3155655-511A-4E47-B579-D735B01F47DB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HarryStoreTests", "HarryStoreTests\HarryStoreTests.csproj", "{FBDBED03-C3E1-46FC-AFB7-4FF6CDAD1549}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3155655-511A-4E47-B579-D735B01F47DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3155655-511A-4E47-B579-D735B01F47DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3155655-511A-4E47-B579-D735B01F47DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3155655-511A-4E47-B579-D735B01F47DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBDBED03-C3E1-46FC-AFB7-4FF6CDAD1549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBDBED03-C3E1-46FC-AFB7-4FF6CDAD1549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBDBED03-C3E1-46FC-AFB7-4FF6CDAD1549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBDBED03-C3E1-46FC-AFB7-4FF6CDAD1549}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B70AE615-5B26-49C7-A46E-746326E06788}
+	EndGlobalSection
+EndGlobal
